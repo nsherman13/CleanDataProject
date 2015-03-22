@@ -11,4 +11,5 @@ Data Transformation Strategy
 3) Combined measurements, activity and subject data and filtered to only include columns with mean or std in their name.
 4) Aggregated data by subject ID and activity and calculated mean value on grouped data.
 5) Combined activity_labels to translate 1,2,3,4,5,6 to their appropriate activity.
-6) Modified Names of columnss
+6) Modified Names of columns of tidy data set
+
